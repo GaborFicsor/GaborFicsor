@@ -32,7 +32,10 @@ I am engaged in creating well-designed and eye-catching web layouts that also wo
 
 ## Projects
 
-1. The Poppy Vegan Restaurant
+
+<details>
+
+<summary>1. The Poppy Vegan Restaurant</summary>
 
    ![The Poppy Vegan Restaurant](https://github.com/GaborFicsor/the-poppy-vegan-restuarant/blob/main/docs/am_i_responsive_screenshot.png)
 
@@ -48,8 +51,11 @@ I am engaged in creating well-designed and eye-catching web layouts that also wo
 
    The project served as a practical demonstration of my use of media queries to create a responsive web layout, ensuring optimal user 
    experience across various screen sizes.
+</details>
 
-3. Rock, Paper, Scissors, Lizard, Spock Game
+<details>
+
+<summary>2. Rock, Paper, Scissors, Lizard, Spock Game</summary>
 
    ![Rock, Paper, Scissors, Lizard, Spock Game](https://github.com/GaborFicsor/rock-paper-scissor-lizard-spock-game/blob/main/docs/responsive-design.png)
 
@@ -65,8 +71,11 @@ I am engaged in creating well-designed and eye-catching web layouts that also wo
 
    This project showcases my ability to build dynamic and interactive web interfaces by utilising JavaScript's DOM manipulation techinques and implementing event listeners.
 
+</details>
 
-3. Tic-Tac-Toe with Python
+<details>
+
+<summary>3. Tic-Tac-Toe with Python</summary>
 
    ![Tic-Tac-Toe with Python](https://github.com/GaborFicsor/tic-tac-toe-with-python/blob/main/images/starting_screen.png)
 
@@ -84,7 +93,11 @@ I am engaged in creating well-designed and eye-catching web layouts that also wo
    This project was created to utilise the Python programming language's object-oriented principles, ensuring effective functionality that handles user inputs with 
    error-handling mechanisms.
 
-4. Steezy Spatula
+</details>
+
+<details>
+
+<summary>4. Steezy Spatula</summary>
 
    ![Steezy Spatula](https://github.com/GaborFicsor/steezy-spatula/blob/main/static/images/amiresponsive.png)
 
@@ -100,11 +113,15 @@ I am engaged in creating well-designed and eye-catching web layouts that also wo
 
    Created a web application that gives it's users the ability to register and login as well as perform CRUD operations that are reflected on the website.
 
-5. TechCycle
+</details>
+
+<details>
+   
+<summary>5. TechCycle</summary>
 
    ![TechCycle](https://github.com/GaborFicsor/techcycle/blob/main/assets/images/amiresponsive.png)
 
-   #### [Live Website](https://techcycle-66d1b58854d4.herokuapp.com/))
+   #### [Live Website](https://techcycle-66d1b58854d4.herokuapp.com/)
 
    #### [Repository](https://github.com/GaborFicsor/techcycle)
 
@@ -116,4 +133,6 @@ I am engaged in creating well-designed and eye-catching web layouts that also wo
    #### Purpose
 
    Created a web application where users are able to make payments by creating an order of one or more items.
+
+</details>
    
